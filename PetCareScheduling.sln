@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCareScheduling.Application", "PetCareScheduling.Application\PetCareScheduling.Application.csproj", "{92567104-A3E3-4B5E-B95B-9B5495FE033F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCareScheduling.Client", "PetCareScheduling.Client\PetCareScheduling.Client.csproj", "{73AF51FD-7B8B-4070-964A-D6E191945AC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCareScheduling.Data", "PetCareScheduling.Data\PetCareScheduling.Data.csproj", "{14D5B541-48CC-4F81-B68C-2A61CBA385DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCareScheduling.Manage", "PetCareScheduling.Manage\PetCareScheduling.Manage.csproj", "{60AC63B1-BE2B-4C64-95C6-BD4E6A460CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetCareScheduling.Store", "PetCareScheduling.Store\PetCareScheduling.Store.csproj", "{B2A866DB-79EE-437D-9976-9A35B9FCC88C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92567104-A3E3-4B5E-B95B-9B5495FE033F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92567104-A3E3-4B5E-B95B-9B5495FE033F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92567104-A3E3-4B5E-B95B-9B5495FE033F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92567104-A3E3-4B5E-B95B-9B5495FE033F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73AF51FD-7B8B-4070-964A-D6E191945AC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AF51FD-7B8B-4070-964A-D6E191945AC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AF51FD-7B8B-4070-964A-D6E191945AC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AF51FD-7B8B-4070-964A-D6E191945AC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D5B541-48CC-4F81-B68C-2A61CBA385DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D5B541-48CC-4F81-B68C-2A61CBA385DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D5B541-48CC-4F81-B68C-2A61CBA385DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D5B541-48CC-4F81-B68C-2A61CBA385DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AC63B1-BE2B-4C64-95C6-BD4E6A460CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AC63B1-BE2B-4C64-95C6-BD4E6A460CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AC63B1-BE2B-4C64-95C6-BD4E6A460CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AC63B1-BE2B-4C64-95C6-BD4E6A460CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2A866DB-79EE-437D-9976-9A35B9FCC88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2A866DB-79EE-437D-9976-9A35B9FCC88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2A866DB-79EE-437D-9976-9A35B9FCC88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2A866DB-79EE-437D-9976-9A35B9FCC88C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
