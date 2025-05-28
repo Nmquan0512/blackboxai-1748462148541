@@ -1,0 +1,14 @@
+/project/sandbox/user-workspace/PetCareScheduling.Data/bin/Debug/net8.0/PetCareScheduling.Data.deps.json
+/project/sandbox/user-workspace/PetCareScheduling.Data/bin/Debug/net8.0/PetCareScheduling.Data.runtimeconfig.json
+/project/sandbox/user-workspace/PetCareScheduling.Data/bin/Debug/net8.0/PetCareScheduling.Data.dll
+/project/sandbox/user-workspace/PetCareScheduling.Data/bin/Debug/net8.0/PetCareScheduling.Data.pdb
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.csproj.AssemblyReference.cache
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.GeneratedMSBuildEditorConfig.editorconfig
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.AssemblyInfoInputs.cache
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.AssemblyInfo.cs
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.csproj.CoreCompileInputs.cache
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.dll
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/refint/PetCareScheduling.Data.dll
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.pdb
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/PetCareScheduling.Data.genruntimeconfig.cache
+/project/sandbox/user-workspace/PetCareScheduling.Data/obj/Debug/net8.0/ref/PetCareScheduling.Data.dll
